@@ -39,6 +39,7 @@ python scripts/export_all_agents_reports.py "中国平安"
 输入公司代码后的分析效果界面
 <img width="2523" height="1101" alt="结果界面" src="https://github.com/user-attachments/assets/9100ec1a-56f3-47ff-a4a6-f4e694456d0f" />
 更完整的架构说明见 [docs/architecture-report.md](docs/architecture-report.md)。
+<img width="1826" height="1317" alt="image" src="https://github.com/user-attachments/assets/ff6dc9aa-73d9-479a-817f-e664454e8cd2" />
 
 ---
 # a-stock-agent 整体架构拓扑图
