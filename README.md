@@ -43,6 +43,8 @@ python scripts/export_all_agents_reports.py "中国平安"
 # a-stock-agent 整体架构拓扑图
 
 本文档为 **Mermaid** 拓扑图合集，可在 VS Code / Cursor（Mermaid 插件）、GitHub、或 [Mermaid Live Editor](https://mermaid.live) 中渲染；在 Mermaid Live 中可导出 **SVG / PNG** 用于汇报或文档。
+输入公司代码后的分析效果界面
+<img width="2523" height="1101" alt="结果界面" src="https://github.com/user-attachments/assets/9100ec1a-56f3-47ff-a4a6-f4e694456d0f" />
 
 ---
 
