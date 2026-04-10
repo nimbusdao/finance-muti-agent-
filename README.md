@@ -33,6 +33,10 @@ python scripts/export_all_agents_reports.py "中国平安"
 # 默认输出到项目根下 reports_dir/<ticker>_<时间戳>/
 ```
 
+前端设计页面效果，可交互
+<img width="2549" height="1403" alt="image" src="https://github.com/user-attachments/assets/4654164e-6fd0-47f5-8170-1ea93a7e442d" />
+
+
 更完整的架构说明见 [docs/architecture-report.md](docs/architecture-report.md)。
 
 ---
